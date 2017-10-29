@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "redishketch-romeo",
+        "scope": null,
+        "escapedName": "redishketch-romeo",
+        "name": "redishketch-romeo",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+    ]
+  ],
+  "_from": "redishketch-romeo@latest",
+  "_id": "redishketch-romeo@0.0.1",
+  "_inCache": true,
+  "_location": "/redishketch-romeo",
+  "_nodeVersion": "6.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/redishketch-romeo-0.0.1.tgz_1504896922678_0.9999807632993907"
+  },
+  "_npmUser": {
+    "name": "shudhuiami",
+    "email": "ahmed.zobaer98@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "redishketch-romeo",
+    "scope": null,
+    "escapedName": "redishketch-romeo",
+    "name": "redishketch-romeo",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/redishketch-romeo/-/redishketch-romeo-0.0.1.tgz",
+  "_shasum": "195a6018e0ae3a04e1ab77610c57394e19e126c8",
+  "_shrinkwrap": null,
+  "_spec": "redishketch-romeo",
+  "_where": "E:\\xampp\\htdocs",
+  "author": {
+    "name": "Ahmed zobayer"
+  },
+  "dependencies": {},
+  "description": "simplest javascript based HTTP Request plugin.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "195a6018e0ae3a04e1ab77610c57394e19e126c8",
+    "tarball": "https://registry.npmjs.org/redishketch-romeo/-/redishketch-romeo-0.0.1.tgz"
+  },
+  "keywords": [
+    "ajax",
+    "http",
+    "request",
+    "no",
+    "plugin",
+    "simple",
+    "ajax",
+    "vue.js",
+    "vuejs",
+    "vue",
+    "js",
+    "simple vue request",
+    "pure javascript",
+    "javascript",
+    "pure",
+    "Http request"
+  ],
+  "license": "ISC",
+  "main": "romeo.js",
+  "maintainers": [
+    {
+      "name": "shudhuiami",
+      "email": "ahmed.zobaer98@gmail.com"
+    }
+  ],
+  "name": "redishketch-romeo",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
